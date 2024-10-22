@@ -35,6 +35,6 @@ Ce projet est une application Android qui permet de gérer des informations d'é
 ## Video demonstratif 
 - ![Capture d'écran 2024-10-22 233551](https://github.com/user-attachments/assets/8388ac80-35b5-4c86-a0af-95ee8f7ae535)
 - https://github.com/user-attachments/assets/21222900-d65f-4bf9-96ec-43e8351e5ebf
--
+- ![Capture d'écran 2024-10-22 233851](https://github.com/user-attachments/assets/e258fe35-f3b9-4a2e-bc98-73359cf6943f)
 ## Auteur
 - Assia BOUJNAH
