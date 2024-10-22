@@ -20,8 +20,7 @@ Ce projet est une application Android qui permet de gérer des informations d'é
 
 ## Installation
 1. Clonez le repository :
-   ```bash
-   git clone https://github.com/votre-utilisateur/votre-repo.git
+   - [git clone https://github.com/votre-utilisateur/votre-repo.git](https://github.com/assia1905/projetws)
 2.Ouvrez le projet dans Android Studio.
 3.Modifiez l'URL de l'API dans la classe AddEtudiant.java pour qu'elle corresponde à votre serveur local :
  - private String insertUrl = "http://192.168.1.151:8080/PhpProject1/ws/createEtudiant.php";
