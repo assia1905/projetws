@@ -34,5 +34,6 @@ Ce projet est une application Android qui permet de gérer des informations d'é
 - La liste des étudiants sera affichée dans la RecyclerView.
 ## Video demonstratif 
 -
+-https://github.com/user-attachments/assets/21222900-d65f-4bf9-96ec-43e8351e5ebf
 ## Auteur
 - Assia BOUJNAH
