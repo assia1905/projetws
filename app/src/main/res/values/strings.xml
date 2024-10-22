@@ -1,0 +1,36 @@
+<resources>
+    <!-- Nom de l'application -->
+    <string name="app_name">projetws</string>
+
+    <!-- Tableau des villes pour le Spinner -->
+    <string-array name="villes">
+        <item>Marrakech</item>
+        <item>Rabat</item>
+        <item>Agadir</item>
+        <item>Casablanca</item>
+        <item>Safé</item>
+    </string-array>
+
+    <!-- Libellés pour les champs du formulaire -->
+    <string name="nom_hint">Nom</string>
+    <string name="prenom_hint">Prénom</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="modifier">Modifier</string>
+    <string name="supprimer">Supprimer</string>
+
+    <!-- Messages d'erreur -->
+    <string name="erreur_ajout">Erreur lors de l\'ajout</string>
+    <string name="erreur_modification">Erreur lors de la modification</string>
+    <string name="erreur_suppression">Erreur lors de la suppression</string>
+    <string name="erreur_champs">Veuillez remplir tous les champs</string>
+    <string name="etudiant_ajoute">Étudiant ajouté avec succès</string>
+    <string name="etudiant_modifie">Étudiant modifié avec succès</string>
+    <string name="etudiant_supprime">Étudiant supprimé avec succès</string>
+
+    <!-- Sexe -->
+    <string name="sexe_homme">Homme</string>
+    <string name="sexe_femme">Femme</string>
+
+    <!-- Titre de la liste des étudiants -->
+    <string name="liste_etudiants">Liste des Étudiants</string>
+</resources>
